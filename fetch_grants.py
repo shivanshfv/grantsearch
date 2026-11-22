@@ -8,6 +8,7 @@ with an error and leaves the existing files untouched.
 """
 
 import csv
+import html
 import json
 import os
 import sys
@@ -73,6 +74,11 @@ def new_call(url, today, deadlines, **fields):
         "changed_on": "",
         "change": "",
     }
+
+
+def clean(text):
+    """Tidy a title: decode codes like &amp;, drop invisible characters and extra spaces."""
+    return " ".join(html.unescape(text or "").replace("\u200b", "").split())
 
 
 def to_amount(value):
@@ -203,7 +209,7 @@ def eu_calls(today):
             url, today, deadlines,
             source="EU",
             identifier=identifier,
-            title=" ".join(title.split()),
+            title=clean(title),
             type=EU_TYPES.get(kind, kind),
             programme=programme_names.get(programme, programme),
             call=first(m, "callIdentifier"),
@@ -284,7 +290,7 @@ def us_call(hit, today):
         [deadline] if deadline else [],
         source="US",
         identifier=hit["number"],
-        title=" ".join(hit["title"].split()),
+        title=clean(hit["title"]),
         type=instruments[0].get("description") or "Grant",
         programme=f"{' '.join(agency.split())} ({agency_code})",
         call=hit["agency"],  # the office within the agency

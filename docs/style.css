@@ -275,7 +275,7 @@ footer { margin-top: 28px; padding-top: 12px; border-top: 1px solid var(--border
   td.call { flex: 0 0 100%; font-size: 1.05rem; }
   td.opens { flex: 0 0 100%; font-size: 0.85rem; color: var(--muted); }
   td.deadline { flex: 1 1 auto; }
-  td.deadline .sub { display: inline; margin-left: 6px; }
+  td.deadline .sub, td.type .sub { display: inline; margin-left: 6px; }
   td[data-label]::before { content: attr(data-label) " "; font-size: 0.8rem; color: var(--muted); }
   .skeleton td { flex: 0 0 100%; }
 }
