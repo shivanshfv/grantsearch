@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>EU and US grant opportunities</title>
+  <!-- If you change style.css or app.js, raise the number after "?v=" on both
+       lines below. It makes browsers fetch the new files instead of old copies. -->
+  <link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+  <a class="skip" href="#results">Skip to results</a>
+
+  <header class="band">
+    <div class="band-top">
+      <h1>EU and US grant opportunities</h1>
+      <p class="desc">
+        Open and forthcoming calls from the EU Funding &amp; Tenders Portal and Grants.gov.
+        <span id="updated"></span>
+      </p>
+      <p class="downloads">
+        <a class="button" href="data/grants.csv" download aria-label="Download CSV">↓ CSV</a>
+        <a class="button" href="data/grants.xlsx" download aria-label="Download Excel">↓ Excel</a>
+      </p>
+    </div>
+    <p id="summary" class="summary" hidden>
+      <button type="button" data-show=""><b id="n-total"></b> calls</button>
+      <button type="button" data-show="today"><b id="n-today"></b> new today</button>
+      <button type="button" data-show="week"><b id="n-week"></b> new this week</button>
+      <button type="button" data-show="closing"><b id="n-closing"></b> closing in the next 30 days</button>
+    </p>
+  </header>
+
+  <p id="warning" class="warning" role="alert" hidden></p>
+
+  <div id="error" class="message" hidden>
+    <h2>The grant list could not be loaded</h2>
+    <p>Please try again in a few minutes. In the meantime you can still download the full list:</p>
+    <p>
+      <a class="button" href="data/grants.csv" download>Download CSV</a>
+      <a class="button" href="data/grants.xlsx" download>Download Excel</a>
+    </p>
+  </div>
+
+  <form id="filters" class="filters" role="search" aria-label="Filter calls">
+    <div class="bar">
+      <label class="keyword">Keyword
+        <input type="search" name="q" placeholder="Search title, identifier, programme or agency">
+      </label>
+      <div class="primary">
+        <label>Source
+          <select name="source">
+            <option value="">EU and US</option>
+            <option value="EU">European Union</option>
+            <option value="US">United States</option>
+          </select>
+        </label>
+        <label>Programme or agency
+          <select name="programme"><option value="">All</option></select>
+        </label>
+        <label>Status
+          <select name="status"><option value="">Open and forthcoming</option></select>
+        </label>
+        <label>Show
+          <select name="new">
+            <option value="">All calls</option>
+            <option value="today">New today</option>
+            <option value="week">New this week</option>
+            <option value="changed">Changed this week</option>
+            <option value="closing">Closing in the next 30 days</option>
+          </select>
+        </label>
+      </div>
+      <button type="button" id="toggle" class="button" aria-expanded="false" aria-controls="more">More filters</button>
+    </div>
+
+    <div id="more" class="more">
+      <label>Type
+        <select name="type"><option value="">All types</option></select>
+      </label>
+      <label>Deadline from
+        <input type="date" name="from">
+      </label>
+      <label>Deadline to
+        <input type="date" name="to">
+      </label>
+      <label>Budget from
+        <input type="number" name="min" min="0" step="1000" inputmode="numeric">
+      </label>
+      <label>Budget to
+        <input type="number" name="max" min="0" step="1000" inputmode="numeric">
+      </label>
+      <p id="note" class="note" hidden></p>
+    </div>
+
+    <div class="active">
+      <strong id="count" aria-live="polite"></strong>
+      <ul id="chips" aria-label="Active filters"></ul>
+      <button type="button" id="clear" class="link" hidden>Clear all</button>
+    </div>
+  </form>
+
+  <main id="results">
+    <table id="table" aria-busy="true">
+      <colgroup>
+        <col><col class="c-prog"><col class="c-type"><col class="c-status">
+        <col class="c-date"><col class="c-deadline"><col class="c-budget">
+      </colgroup>
+      <thead>
+        <tr>
+          <th scope="col"><button type="button" data-sort="title">Call</button></th>
+          <th scope="col"><button type="button" data-sort="programme">Prog. / agency</button></th>
+          <th scope="col"><button type="button" data-sort="type">Type</button></th>
+          <th scope="col"><button type="button" data-sort="status">Status</button></th>
+          <th scope="col"><button type="button" data-sort="opening">Opens</button></th>
+          <th scope="col"><button type="button" data-sort="deadline">Deadline</button></th>
+          <th scope="col" class="number"><button type="button" data-sort="budget">Budget</button></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+
+    <div id="empty" class="message" hidden>
+      <h2>No calls match these filters</h2>
+      <p>Try a different keyword or remove a filter.</p>
+      <p><button type="button" id="empty-clear" class="button">Clear filters</button></p>
+    </div>
+
+    <p class="center"><button type="button" id="show-more" class="button" hidden></button></p>
+  </main>
+
+  <footer>
+    <p>
+      Sources: <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home">EU Funding &amp; Tenders Portal</a>
+      and <a href="https://www.grants.gov/">Grants.gov</a>.
+      Refreshed once a day. Always check the original listing for the authoritative details.
+      <a id="run-link" hidden>Maintainers: run an update now</a>
+    </p>
+  </footer>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>
