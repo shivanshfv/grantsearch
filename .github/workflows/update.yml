@@ -18,9 +18,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 90
-    environment:
-      name: github-pages
-      url: ${{ steps.publish.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
 
@@ -49,6 +46,14 @@ jobs:
         with:
           path: docs
 
+  # Publishing runs as its own job, after the files above have been handed over.
+  publish:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publish.outputs.page_url }}
+    steps:
       - name: Publish the page
         id: publish
         uses: actions/deploy-pages@v4
