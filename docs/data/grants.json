@@ -1,129 +1,24 @@
 {
- "generated_at": "2026-11-25T05:24:05Z",
+ "generated_at": "2026-11-26T05:23:33Z",
  "calls": [
   {
-   "url": "https://www.grants.gov/search-results-detail/364155",
-   "source": "US",
-   "identifier": "DFOP0019966",
-   "title": "2027 Donald M. Payne International Development Graduate Fellowship Program – Selection",
-   "type": "Cooperative Agreement",
-   "programme": "Department of State (DOS)",
-   "call": "Bureau of Human Resources",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2026-04-GOVERNANCE-01",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2026-04-GOVERNANCE-01",
+   "title": "Additional activities for the European Partnership of Agriculture of Data",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2026-04",
    "status": "Open",
-   "opening_date": "2026-10-27",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
+   "opening_date": "2026-08-25",
+   "deadline_model": "single-stage",
+   "budget": 60000000,
+   "currency": "EUR",
    "deadlines": [
-    "2026-11-25"
+    "2026-11-26"
    ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://www.grants.gov/search-results-detail/364162",
-   "source": "US",
-   "identifier": "DFOP0019970",
-   "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Administration Grant",
-   "type": "Cooperative Agreement",
-   "programme": "Department of State (DOS)",
-   "call": "Bureau of Human Resources",
-   "status": "Open",
-   "opening_date": "2026-10-27",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
-   "deadlines": [
-    "2026-11-25"
-   ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://www.grants.gov/search-results-detail/364158",
-   "source": "US",
-   "identifier": "DFOP0019974",
-   "title": "2027 Thomas R. Pickering Foreign Affairs Fellowship Program Selection Grant",
-   "type": "Cooperative Agreement",
-   "programme": "Department of State (DOS)",
-   "call": "Bureau of Human Resources",
-   "status": "Open",
-   "opening_date": "2026-10-27",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
-   "deadlines": [
-    "2026-11-25"
-   ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://www.grants.gov/search-results-detail/364159",
-   "source": "US",
-   "identifier": "DFOP0019978",
-   "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Administration Grant",
-   "type": "Cooperative Agreement",
-   "programme": "Department of State (DOS)",
-   "call": "Bureau of Human Resources",
-   "status": "Open",
-   "opening_date": "2026-10-27",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
-   "deadlines": [
-    "2026-11-25"
-   ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://www.grants.gov/search-results-detail/364161",
-   "source": "US",
-   "identifier": "DFOP0019982",
-   "title": "Charles B. Rangel Graduate Foreign Affairs Fellowship Program Selection Grant",
-   "type": "Cooperative Agreement",
-   "programme": "Department of State (DOS)",
-   "call": "Bureau of Human Resources",
-   "status": "Open",
-   "opening_date": "2026-10-27",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
-   "deadlines": [
-    "2026-11-25"
-   ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://www.grants.gov/search-results-detail/364063",
-   "source": "US",
-   "identifier": "O-SMART-2026-172794",
-   "title": "SMART FY26 Support for Adam Walsh Act Implementation Grant Program",
-   "type": "Grant",
-   "programme": "Department of Justice (USDOJ)",
-   "call": "SMART",
-   "status": "Open",
-   "opening_date": "2026-10-09",
-   "deadline_model": "",
-   "budget": null,
-   "currency": "USD",
-   "deadlines": [
-    "2026-11-25"
-   ],
-   "next_deadline": "2026-11-25",
-   "first_seen": "",
+   "next_deadline": "2026-11-26",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -909,6 +804,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-11-D3-14",
+   "source": "EU",
+   "identifier": "HORIZON-CL5-2026-11-D3-14",
+   "title": "Improved system design for innovative PV applications (EUPI-PV Partnership)",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL5-2026-11",
+   "status": "Open",
+   "opening_date": "2026-08-04",
+   "deadline_model": "single-stage",
+   "budget": 30000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "next_deadline": "2026-12-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-11-D3-23",
    "source": "EU",
    "identifier": "HORIZON-CL5-2026-11-D3-23",
@@ -941,27 +857,6 @@
    "opening_date": "2026-09-02",
    "deadline_model": "single-stage",
    "budget": 220000,
-   "currency": "EUR",
-   "deadlines": [
-    "2026-12-01"
-   ],
-   "next_deadline": "2026-12-01",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PRIZE-WIP-RisingInnovators",
-   "source": "EU",
-   "identifier": "HORIZON-EIC-2026-PRIZE-WIP-RisingInnovators",
-   "title": "Rising Innovators category",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-EIC-2026-PRIZE-WIP",
-   "status": "Open",
-   "opening_date": "2026-09-02",
-   "deadline_model": "single-stage",
-   "budget": 100000,
    "currency": "EUR",
    "deadlines": [
     "2026-12-01"
@@ -1056,6 +951,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-BUSINESS-02",
+   "source": "EU",
+   "identifier": "HORIZON-NEB-2026-01-BUSINESS-02",
+   "title": "Understanding capital market dynamics for increased investment in New European Bauhaus projects in neighbourhoods",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-NEB-2026-01",
+   "status": "Open",
+   "opening_date": "2026-05-05",
+   "deadline_model": "single-stage",
+   "budget": 7000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "next_deadline": "2026-12-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-BUSINESS-03",
    "source": "EU",
    "identifier": "HORIZON-NEB-2026-01-BUSINESS-03",
@@ -1077,27 +993,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-PARTICIPATION-01",
-   "source": "EU",
-   "identifier": "HORIZON-NEB-2026-01-PARTICIPATION-01",
-   "title": "Addressing homelessness through housing-led approaches aligned with the New European Bauhaus",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-NEB-2026-01",
-   "status": "Open",
-   "opening_date": "2026-05-05",
-   "deadline_model": "single-stage",
-   "budget": 12600000,
-   "currency": "EUR",
-   "deadlines": [
-    "2026-12-01"
-   ],
-   "next_deadline": "2026-12-01",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-PARTICIPATION-02",
    "source": "EU",
    "identifier": "HORIZON-NEB-2026-01-PARTICIPATION-02",
@@ -1109,27 +1004,6 @@
    "opening_date": "2026-05-05",
    "deadline_model": "single-stage",
    "budget": 10000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2026-12-01"
-   ],
-   "next_deadline": "2026-12-01",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-PARTICIPATION-03",
-   "source": "EU",
-   "identifier": "HORIZON-NEB-2026-01-PARTICIPATION-03",
-   "title": "Understanding inhabitant’s experiences of neighbourhoods to support their health and well-being",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-NEB-2026-01",
-   "status": "Open",
-   "opening_date": "2026-05-05",
-   "deadline_model": "single-stage",
-   "budget": 15000000,
    "currency": "EUR",
    "deadlines": [
     "2026-12-01"
@@ -1172,27 +1046,6 @@
    "opening_date": "2026-05-05",
    "deadline_model": "single-stage",
    "budget": 10000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2026-12-01"
-   ],
-   "next_deadline": "2026-12-01",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-REGEN-03",
-   "source": "EU",
-   "identifier": "HORIZON-NEB-2026-01-REGEN-03",
-   "title": "Innovative solutions for the sustainable and beautiful use of vertical space",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-NEB-2026-01",
-   "status": "Open",
-   "opening_date": "2026-05-05",
-   "deadline_model": "single-stage",
-   "budget": 15000000,
    "currency": "EUR",
    "deadlines": [
     "2026-12-01"
@@ -3311,6 +3164,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ISF-2026-TF2-AG-CYBER-DIGITAL",
+   "source": "EU",
+   "identifier": "ISF-2026-TF2-AG-CYBER-DIGITAL",
+   "title": "Digital Investigations",
+   "type": "Grant topic",
+   "programme": "Internal Security Fund (ISF)",
+   "call": "ISF-2026-TF2-AG-CYBER",
+   "status": "Open",
+   "opening_date": "2026-09-15",
+   "deadline_model": "single-stage",
+   "budget": 6200000,
+   "currency": "EUR",
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "next_deadline": "2026-12-15",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ISF-2026-TF2-AG-CYBER-STANDARD",
    "source": "EU",
    "identifier": "ISF-2026-TF2-AG-CYBER-STANDARD",
@@ -4671,27 +4545,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-02-CONNECT-01",
-   "source": "EU",
-   "identifier": "HORIZON-EIE-2027-02-CONNECT-01",
-   "title": "European Startup and Scaleup Hubs pilot",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-EIE-2027-02",
-   "status": "Open",
-   "opening_date": "2026-10-06",
-   "deadline_model": "single-stage",
-   "budget": 40000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-01-05"
-   ],
-   "next_deadline": "2027-01-05",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://www.grants.gov/search-results-detail/362576",
    "source": "US",
    "identifier": "PAR-27-039",
@@ -5575,6 +5428,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-COG",
+   "source": "EU",
+   "identifier": "ERC-2027-COG",
+   "title": "ERC Consolidator Grant",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "ERC-2027-COG",
+   "status": "Open",
+   "opening_date": "2026-09-24",
+   "deadline_model": "single-stage",
+   "budget": 618500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-01-12"
+   ],
+   "next_deadline": "2027-01-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/364195",
    "source": "US",
    "identifier": "20270113-CHE",
@@ -5744,6 +5618,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/IMREG-2026-INFOME",
+   "source": "EU",
+   "identifier": "IMREG-2026-INFOME",
+   "title": "Information measures for the EU Cohesion policy for 2026",
+   "type": "Grant topic",
+   "programme": "Information Measures for the EU Cohesion policy (IMREG)",
+   "call": "IMREG-2026-INFOME",
+   "status": "Open",
+   "opening_date": "2026-10-14",
+   "deadline_model": "single-stage",
+   "budget": 3500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-01-13"
+   ],
+   "next_deadline": "2027-01-13",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/348260",
    "source": "US",
    "identifier": "23-568",
@@ -5761,6 +5656,27 @@
    ],
    "next_deadline": "2027-01-14",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-INNOVBUSMOD",
+   "source": "EU",
+   "identifier": "CREA-MEDIA-2027-INNOVBUSMOD",
+   "title": "Innovative tools and business models",
+   "type": "Grant topic",
+   "programme": "Creative Europe Programme (CREA)",
+   "call": "CREA-MEDIA-2027-INNOVBUSMOD",
+   "status": "Open",
+   "opening_date": "2026-09-30",
+   "deadline_model": "single-stage",
+   "budget": 14000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-01-14"
+   ],
+   "next_deadline": "2027-01-14",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -6502,6 +6418,27 @@
    "first_seen": "",
    "changed_on": "2026-11-24",
    "change": "Status: Forthcoming -> Open"
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-OG",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-OG",
+   "title": "Call for proposals for operating grants in 2027 to non-governmental organisations: financial contribution to the functioning of health non-governmental organisations implementing one or more specific objectives of Regulation (EU) 2021/522 (OA-g-26-91 )",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-OG",
+   "status": "Open",
+   "opening_date": "2026-11-04",
+   "deadline_model": "single-stage",
+   "budget": 1800000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-01-19"
+   ],
+   "next_deadline": "2027-01-19",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
   },
   {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/17261",
@@ -7708,27 +7645,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-MFP",
-   "source": "EU",
-   "identifier": "CREA-CROSS-2027-MFP",
-   "title": "NEWS - Media Freedom Rapid Response Mechanism",
-   "type": "Grant topic",
-   "programme": "Creative Europe Programme (CREA)",
-   "call": "CREA-CROSS-2027-MFP",
-   "status": "Open",
-   "opening_date": "2026-10-22",
-   "deadline_model": "single-stage",
-   "budget": 3000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-01-27"
-   ],
-   "next_deadline": "2027-01-27",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2027-LIT",
    "source": "EU",
    "identifier": "CREA-CULT-2027-LIT",
@@ -7757,7 +7673,7 @@
    "type": "Cascade funding call",
    "programme": "Horizon Europe (HORIZON)",
    "call": "",
-   "status": "Forthcoming",
+   "status": "Open",
    "opening_date": "2026-11-26",
    "deadline_model": "single-stage",
    "budget": 600000,
@@ -7767,8 +7683,8 @@
    ],
    "next_deadline": "2027-01-27",
    "first_seen": "",
-   "changed_on": "",
-   "change": ""
+   "changed_on": "2026-11-26",
+   "change": "Status: Forthcoming -> Open"
   },
   {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/16881",
@@ -8949,6 +8865,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-DEVVGIM",
+   "source": "EU",
+   "identifier": "CREA-MEDIA-2027-DEVVGIM",
+   "title": "European video games and immersive content",
+   "type": "Grant topic",
+   "programme": "Creative Europe Programme (CREA)",
+   "call": "CREA-MEDIA-2027-DEVVGIM",
+   "status": "Open",
+   "opening_date": "2026-09-30",
+   "deadline_model": "single-stage",
+   "budget": 13500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-02"
+   ],
+   "next_deadline": "2027-02-02",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-01-MAT-PROD-02",
    "source": "EU",
    "identifier": "HORIZON-CL4-2027-01-MAT-PROD-02",
@@ -9287,48 +9224,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-02",
-   "source": "EU",
-   "identifier": "HORIZON-RAISE-2027-01-02",
-   "title": "Automated Scientific Discovery – Food (RAISE pilot)",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-RAISE-2027-01",
-   "status": "Open",
-   "opening_date": "2026-10-13",
-   "deadline_model": "single-stage",
-   "budget": 3000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-02-02"
-   ],
-   "next_deadline": "2027-02-02",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2027-01-04",
-   "source": "EU",
-   "identifier": "HORIZON-RAISE-2027-01-04",
-   "title": "Developing a model for a Data Lab for Science linking with EOSC and RAISE (RAISE pilot) (CSA)",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-RAISE-2027-01",
-   "status": "Open",
-   "opening_date": "2026-10-13",
-   "deadline_model": "single-stage",
-   "budget": 1000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-02-02"
-   ],
-   "next_deadline": "2027-02-02",
-   "first_seen": "2026-11-25",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://www.grants.gov/search-results-detail/363272",
    "source": "US",
    "identifier": "HRSA-27-062",
@@ -9472,6 +9367,216 @@
    ],
    "next_deadline": "2027-02-03",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-CHAIR",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-HEI-TCH-RSCH-CHAIR",
+   "title": "ERASMUS-JMO-2027-CHAIR",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-HEI-TCH-RSCH",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 20050000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-CoE",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-HEI-TCH-RSCH-CoE",
+   "title": "ERASMUS-JMO-2027-CoE",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-HEI-TCH-RSCH",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 20050000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-HEI-TCH-RSCH-MODULE",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-HEI-TCH-RSCH-MODULE",
+   "title": "ERASMUS-JMO-2027-MODULE",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-HEI-TCH-RSCH",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 20050000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-NETWORKS-HEI-EU-DIG-ECO",
+   "title": "Jean Monnet Networks on internal policy: Strategic autonomy of the European political area – digital and economic independence",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-NETWORKS",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 6000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-EU-EDU-CUL",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-NETWORKS-HEI-EU-EDU-CUL",
+   "title": "Jean Monnet Network on internal policy: The role of education and culture for integration and cooperation in Europe",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-NETWORKS",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 6000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-CANADA",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-CANADA",
+   "title": "Jean Monnet Network on external policy: EU-Canada",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-NETWORKS",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 2400000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-UA-MLD",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-NETWORKS-HEI-NON-EU-UA-MLD",
+   "title": "Jean Monnet Network on external policy: EU-Ukraine-Moldova",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-NETWORKS",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 2400000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-NETWORKS-SCHOOLS",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-NETWORKS-SCHOOLS",
+   "title": "Jean Monnet Networks in other fields of education and training",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-NETWORKS",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 6000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-JMO-2027-OFET-TT",
+   "source": "EU",
+   "identifier": "ERASMUS-JMO-2027-OFET-TT",
+   "title": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-JMO-2027-OFET-TT",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 5100000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/17041",
+   "source": "EU",
+   "identifier": "HORIZON-CL4-2025-03-HUMAN-16",
+   "title": "CodeSupply open call (2027-01Y)",
+   "type": "Cascade funding call",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "",
+   "status": "Open",
+   "opening_date": "2026-11-03",
+   "deadline_model": "single-stage",
+   "budget": 300000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-03"
+   ],
+   "next_deadline": "2027-02-03",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -11368,27 +11473,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-07",
-   "source": "EU",
-   "identifier": "HORIZON-HLTH-2027-01-DISEASE-07",
-   "title": "Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-HLTH-2027-01",
-   "status": "Open",
-   "opening_date": "2026-10-29",
-   "deadline_model": "single-stage",
-   "budget": 37300000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-02-17"
-   ],
-   "next_deadline": "2027-02-17",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-DISEASE-08",
    "source": "EU",
    "identifier": "HORIZON-HLTH-2027-01-DISEASE-08",
@@ -11421,27 +11505,6 @@
    "opening_date": "2026-10-29",
    "deadline_model": "single-stage",
    "budget": 11800000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-02-17"
-   ],
-   "next_deadline": "2027-02-17",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2027-01-ENVHLTH-02",
-   "source": "EU",
-   "identifier": "HORIZON-HLTH-2027-01-ENVHLTH-02",
-   "title": "Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-HLTH-2027-01",
-   "status": "Open",
-   "opening_date": "2026-10-29",
-   "deadline_model": "single-stage",
-   "budget": 45000000,
    "currency": "EUR",
    "deadlines": [
     "2027-02-17"
@@ -11939,6 +12002,237 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-01",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-01",
+   "title": "Call for proposals to support action for addressing health inequalities in people with intellectual and developmental disabilities across the EU, focusing on cardiovascular health (DG SANTE) - DP-g-26-09",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 450000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-02",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-02",
+   "title": "Call for proposals to address the broader impacts of social media on health and well-being, focusing on the mental health of children and young people (DG SANTE) - DP-g-26-10",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 1000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-03",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-03",
+   "title": "Call for proposals to support dissemination and evaluating the awareness level of the 5th edition of the European Code Against Cancer (DG SANTE) - CR/CV&NCD-g-26-13",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 3000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-04",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-04",
+   "title": "Call for proposals to support the continued implementation and sustainability of the inter-specialty cancer training programme (DG SANTE) - CR/CV&NCD-g-26-14",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 2440000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-05",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-05",
+   "title": "Call for proposals to support an EU flagship programme on cardiovascular diseases: a multidisciplinary and patient-centred approach to prevention, early detection, treatment and care (DG SANTE) - CR/CV&NCD-g-26-15",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 20000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-06",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-06",
+   "title": "Call for proposals to facilitate the use of emerging AI tools in primary care and the required health workforce skills (DG SANTE) - HS-g-26-16",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 2500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-07",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-07",
+   "title": "Call for proposals for European Health Data Space Readiness Package for secondary use of health data (DG SANTE) - DI-g-26-23",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 14350000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-08",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-08",
+   "title": "Call for proposals for Artificial Intelligence for smart European Health Data Space compliance support (DG SANTE) - DI-g-26-24",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 3000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-09",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-09",
+   "title": "Call for proposals for advancing Artificial Intelligence in healthcare through local performance assessment (DG SANTE) - DI-g-26-25",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 1000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-10",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-10",
+   "title": "Call for proposals for designing the ecosystem for multimodal Artificial Intelligence driven prevention and early detection of neurodegenerative diseases (DG SANTE) - DI-g-26-26",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 1000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2027-SANTE-01-PJ-11",
+   "source": "EU",
+   "identifier": "EU4H-2027-SANTE-01-PJ-11",
+   "title": "Call for proposals to contribute to the organisation of conferences (DG SANTE) - OA-g-26-27",
+   "type": "Grant topic",
+   "programme": "EU4Health Programme (EU4H)",
+   "call": "EU4H-2027-SANTE-01-PJ",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 600000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-02-24"
+   ],
+   "next_deadline": "2027-02-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2027-ENREL-01",
    "source": "EU",
    "identifier": "EUBA-EFSA-2027-ENREL-01",
@@ -11967,7 +12261,7 @@
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-EIC-2027-PATHFINDEROPEN-two-stage",
-   "status": "Forthcoming",
+   "status": "Open",
    "opening_date": "2026-11-25",
    "deadline_model": "two-stage",
    "budget": 166000000,
@@ -11978,8 +12272,8 @@
    ],
    "next_deadline": "2027-02-25",
    "first_seen": "",
-   "changed_on": "",
-   "change": ""
+   "changed_on": "2026-11-26",
+   "change": "Status: Forthcoming -> Open"
   },
   {
    "url": "https://www.grants.gov/search-results-detail/364124",
@@ -12341,6 +12635,48 @@
    "change": ""
   },
   {
+   "url": "https://www.grants.gov/search-results-detail/364312",
+   "source": "US",
+   "identifier": "HHS-2027-ACF-OHS-CI-0025",
+   "title": "American Indian Alaska Native Head Start Expansion, Early Head Start Expansion and Early Head Start-Child Care Partnership Grants",
+   "type": "Grant",
+   "programme": "Department of Health and Human Services (HHS)",
+   "call": "Administration for Children and Families - OHS",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-30",
+   "deadline_model": "estimated",
+   "budget": 7193805,
+   "currency": "USD",
+   "deadlines": [
+    "2027-03-02"
+   ],
+   "next_deadline": "2027-03-02",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://www.grants.gov/search-results-detail/364313",
+   "source": "US",
+   "identifier": "HHS-2027-ACF-OHS-CI-0204",
+   "title": "American Indian Alaska Native Head Start Grants in Multiple States",
+   "type": "Grant",
+   "programme": "Department of Health and Human Services (HHS)",
+   "call": "Administration for Children and Families - OHS",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-30",
+   "deadline_model": "estimated",
+   "budget": 7878493,
+   "currency": "USD",
+   "deadlines": [
+    "2027-03-02"
+   ],
+   "next_deadline": "2027-03-02",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/363940",
    "source": "US",
    "identifier": "RFA-ES-28-004",
@@ -12505,6 +12841,27 @@
    ],
    "next_deadline": "2027-03-04",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-SOLID-2027-VTHPA",
+   "source": "EU",
+   "identifier": "ESC-SOLID-2027-VTHPA",
+   "title": "ESC-SOLID-2027-VTHPA",
+   "type": "Grant topic",
+   "programme": "European Solidarity Corps (ESC)",
+   "call": "ESC-SOLID-2027-VTHPA",
+   "status": "Forthcoming",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 5500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-03-04"
+   ],
+   "next_deadline": "2027-03-04",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -12715,6 +13072,27 @@
    ],
    "next_deadline": "2027-03-04",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JTRA",
+   "source": "EU",
+   "identifier": "JUST-2027-JTRA",
+   "title": "Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights",
+   "type": "Grant topic",
+   "programme": "Justice Programme (JUST)",
+   "call": "JUST-2027-JTRA",
+   "status": "Open",
+   "opening_date": "2026-10-28",
+   "deadline_model": "single-stage",
+   "budget": 4075000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-03-04"
+   ],
+   "next_deadline": "2027-03-04",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -13076,23 +13454,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-SPORT-2027-CB",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PCOOP-ENGO",
    "source": "EU",
-   "identifier": "ERASMUS-SPORT-2027-CB",
-   "title": "ERASMUS-SPORT-2027-CB - Capacity Building in the Field of Sport",
+   "identifier": "ERASMUS-EDU-2027-PCOOP-ENGO",
+   "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
    "type": "Grant topic",
    "programme": "Erasmus (ERASMUS )",
-   "call": "ERASMUS-SPORT-2027-CB",
+   "call": "ERASMUS-EDU-2027-PCOOP-ENGO",
    "status": "Forthcoming",
-   "opening_date": "2026-12-17",
+   "opening_date": "2026-12-02",
    "deadline_model": "single-stage",
-   "budget": 2620000,
+   "budget": 5000000,
    "currency": "EUR",
    "deadlines": [
     "2027-03-09"
    ],
    "next_deadline": "2027-03-09",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -13244,6 +13622,28 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERC-2027-POC",
+   "source": "EU",
+   "identifier": "ERC-2027-POC",
+   "title": "Proof of Concept Grant",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "ERC-2027-POC",
+   "status": "Open",
+   "opening_date": "2026-11-12",
+   "deadline_model": "multiple cut-off",
+   "budget": 60000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-03-10",
+    "2027-09-16"
+   ],
+   "next_deadline": "2027-03-10",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/363751",
    "source": "US",
    "identifier": "HHS-2027-ACF-IOAS-OTIP-TV-0004",
@@ -13338,7 +13738,7 @@
    "status": "Forthcoming",
    "opening_date": "2027-01-10",
    "deadline_model": "estimated",
-   "budget": 6000000000,
+   "budget": 1500000000,
    "currency": "USD",
    "deadlines": [
     "2027-03-11"
@@ -13349,23 +13749,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-05-ERA-01",
-   "source": "EU",
-   "identifier": "HORIZON-WIDERA-2027-05-ERA-01",
-   "title": "Pillar I: Facilitating development of institutional open access policies through the retention of intellectual property rights",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-WIDERA-2027-05",
+   "url": "https://www.grants.gov/search-results-detail/364314",
+   "source": "US",
+   "identifier": "CDC-RFA-PW-27-0040",
+   "title": "Strengthening U.S. Public Health Infrastructure Through Tailored Support",
+   "type": "Cooperative Agreement",
+   "programme": "Department of Health and Human Services (HHS)",
+   "call": "Centers for Disease Control-PHIC",
    "status": "Forthcoming",
-   "opening_date": "2026-12-08",
-   "deadline_model": "single-stage",
-   "budget": 2000000,
-   "currency": "EUR",
+   "opening_date": "2027-01-10",
+   "deadline_model": "estimated",
+   "budget": 140000000,
+   "currency": "USD",
    "deadlines": [
     "2027-03-11"
    ],
    "next_deadline": "2027-03-11",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -13402,48 +13802,6 @@
    "opening_date": "2026-12-08",
    "deadline_model": "single-stage",
    "budget": 6000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-03-11"
-   ],
-   "next_deadline": "2027-03-11",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-05-ERA-04",
-   "source": "EU",
-   "identifier": "HORIZON-WIDERA-2027-05-ERA-04",
-   "title": "Pillar III: Promoting public engagement in R&I and scientific literacy",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-WIDERA-2027-05",
-   "status": "Forthcoming",
-   "opening_date": "2026-12-08",
-   "deadline_model": "single-stage",
-   "budget": 2000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-03-11"
-   ],
-   "next_deadline": "2027-03-11",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-05-ERA-05",
-   "source": "EU",
-   "identifier": "HORIZON-WIDERA-2027-05-ERA-05",
-   "title": "Pillar IV: Upgrading the EU’s independent knowledge on China's Science, Technology and Innovation system",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-WIDERA-2027-05",
-   "status": "Forthcoming",
-   "opening_date": "2026-12-08",
-   "deadline_model": "single-stage",
-   "budget": 3000000,
    "currency": "EUR",
    "deadlines": [
     "2027-03-11"
@@ -13598,6 +13956,27 @@
    ],
    "next_deadline": "2027-03-15",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH",
+   "source": "EU",
+   "identifier": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12-CBCH",
+   "title": "Cross-border Cyber Hubs",
+   "type": "Grant topic",
+   "programme": "Digital Europe Programme (DIGITAL)",
+   "call": "DIGITAL-ECCC-2027-DEPLOY-CYBER-12",
+   "status": "Open",
+   "opening_date": "2026-10-15",
+   "deadline_model": "single-stage",
+   "budget": 2000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-03-16"
+   ],
+   "next_deadline": "2027-03-16",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -14585,6 +14964,27 @@
    ],
    "next_deadline": "2027-03-31",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-02-D3-08",
+   "source": "EU",
+   "identifier": "HORIZON-CL5-2027-02-D3-08",
+   "title": "Co-funding Strategic Energy Technology (SET) Plan renewable fuel value chains at EU, national, regional, and local level",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL5-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-03",
+   "deadline_model": "single-stage",
+   "budget": 30000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "next_deadline": "2027-03-31",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -15882,27 +16282,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-04",
-   "source": "EU",
-   "identifier": "HORIZON-CL5-2027-03-D5-04",
-   "title": "Demonstration of zero emission coaches and buses in long distance operations (2ZERO Partnership)",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL5-2027-03",
-   "status": "Forthcoming",
-   "opening_date": "2026-12-15",
-   "deadline_model": "single-stage",
-   "budget": 13500000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-04-14"
-   ],
-   "next_deadline": "2027-04-14",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-05",
    "source": "EU",
    "identifier": "HORIZON-CL5-2027-03-D5-05",
@@ -15924,23 +16303,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-06",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-08",
    "source": "EU",
-   "identifier": "HORIZON-CL5-2027-03-D5-06",
-   "title": "Fire prevention and mitigation for EVs in confined areas (2ZERO Partnership)",
+   "identifier": "HORIZON-CL5-2027-03-D5-08",
+   "title": "Sustainable aircraft circular design and additive manufacturing, towards a climate neutral aviation",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL5-2027-03",
    "status": "Forthcoming",
    "opening_date": "2026-12-15",
    "deadline_model": "single-stage",
-   "budget": 8000000,
+   "budget": 5000000,
    "currency": "EUR",
    "deadlines": [
     "2027-04-14"
    ],
    "next_deadline": "2027-04-14",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -15956,27 +16335,6 @@
    "opening_date": "2026-12-15",
    "deadline_model": "single-stage",
    "budget": 6500000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-04-14"
-   ],
-   "next_deadline": "2027-04-14",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-03-D5-15",
-   "source": "EU",
-   "identifier": "HORIZON-CL5-2027-03-D5-15",
-   "title": "Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL5-2027-03",
-   "status": "Forthcoming",
-   "opening_date": "2026-12-15",
-   "deadline_model": "single-stage",
-   "budget": 2000000,
    "currency": "EUR",
    "deadlines": [
     "2027-04-14"
@@ -16348,6 +16706,48 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JCOO-CIVIL-EJN",
+   "source": "EU",
+   "identifier": "JUST-2027-JCOO-CIVIL-EJN",
+   "title": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priorities Civil Matters and EJN",
+   "type": "Grant topic",
+   "programme": "Justice Programme (JUST)",
+   "call": "JUST-2027-JCOO",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-09",
+   "deadline_model": "single-stage",
+   "budget": 5750000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-04-21"
+   ],
+   "next_deadline": "2027-04-21",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JUST-2027-JCOO-CRIMINAL",
+   "source": "EU",
+   "identifier": "JUST-2027-JCOO-CRIMINAL",
+   "title": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters. Priority Criminal Matters",
+   "type": "Grant topic",
+   "programme": "Justice Programme (JUST)",
+   "call": "JUST-2027-JCOO",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-09",
+   "deadline_model": "single-stage",
+   "budget": 5750000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-04-21"
+   ],
+   "next_deadline": "2027-04-21",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2027-INNOVLAB",
    "source": "EU",
    "identifier": "CREA-CROSS-2027-INNOVLAB",
@@ -16365,6 +16765,27 @@
    ],
    "next_deadline": "2027-04-22",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-VOLUN",
+   "source": "EU",
+   "identifier": "ESC-HUMAID-2027-VOLUN",
+   "title": "Volunteering in support of humanitarian aid operations",
+   "type": "Grant topic",
+   "programme": "European Solidarity Corps (ESC)",
+   "call": "ESC-HUMAID-2027-VOLUN",
+   "status": "Forthcoming",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": 11400000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-04-22"
+   ],
+   "next_deadline": "2027-04-22",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -16859,6 +17280,48 @@
    "change": ""
   },
   {
+   "url": "https://www.grants.gov/search-results-detail/364310",
+   "source": "US",
+   "identifier": "20270505-ECD",
+   "title": "Curriculum Development: Western Civilization",
+   "type": "Grant",
+   "programme": "National Endowment for the Humanities (NEH)",
+   "call": "National Endowment for the Humanities",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-17",
+   "deadline_model": "estimated",
+   "budget": 7000000,
+   "currency": "USD",
+   "deadlines": [
+    "2027-05-05"
+   ],
+   "next_deadline": "2027-05-05",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://www.grants.gov/search-results-detail/364309",
+   "source": "US",
+   "identifier": "20270505-TD-TR",
+   "title": "Media Projects",
+   "type": "Grant",
+   "programme": "National Endowment for the Humanities (NEH)",
+   "call": "National Endowment for the Humanities",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-17",
+   "deadline_model": "estimated",
+   "budget": 6000000,
+   "currency": "USD",
+   "deadlines": [
+    "2027-05-05"
+   ],
+   "next_deadline": "2027-05-05",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/15261",
    "source": "EU",
    "identifier": "HORIZON-WIDERA-2025-04-ACCESS-01",
@@ -17194,6 +17657,132 @@
    ],
    "next_deadline": "2027-05-11",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-CA",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-CA",
+   "title": "Capacity building in VET in Caribbean",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 300000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-LA",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-LA",
+   "title": "Capacity building in VET in Latin America",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 2000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-NE",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-NE",
+   "title": "Capacity building in VET in Neighborhood East",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 3800000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-SMC",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-SMC",
+   "title": "Capacity building in VET in South Mediterranean Countries",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 7900000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-SSA",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-SSA",
+   "title": "Capacity building in VET in Sub-Saharan Africa",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 8000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-CB-VET-WB",
+   "source": "EU",
+   "identifier": "ERASMUS-EDU-2027-CB-VET-WB",
+   "title": "Capacity building in VET in Western Balkans",
+   "type": "Grant topic",
+   "programme": "Erasmus (ERASMUS )",
+   "call": "ERASMUS-EDU-2027-CB-VET",
+   "status": "Forthcoming",
+   "opening_date": "2027-02-09",
+   "deadline_model": "single-stage",
+   "budget": 5750000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-05-12"
+   ],
+   "next_deadline": "2027-05-12",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -18500,27 +19089,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2027-CITIZENS-01-01",
-   "source": "EU",
-   "identifier": "HORIZON-MSCA-2027-CITIZENS-01-01",
-   "title": "MSCA and Citizens 2027",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-MSCA-2027-CITIZENS-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-09",
-   "deadline_model": "single-stage",
-   "budget": 15729369,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-06-08"
-   ],
-   "next_deadline": "2027-06-08",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://www.grants.gov/search-results-detail/363680",
    "source": "US",
    "identifier": "RFA-DA-28-001",
@@ -18837,90 +19405,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-DEV-01-02",
-   "source": "EU",
-   "identifier": "HORIZON-INFRA-2027-DEV-01-02",
-   "title": "Consolidation of the research infrastructure landscape – development of complementarities, synergies and/or integration between a set of pan-European research infrastructures",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-INFRA-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-09",
-   "deadline_model": "single-stage",
-   "budget": 20000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-06-15"
-   ],
-   "next_deadline": "2027-06-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-DEV-01-03",
-   "source": "EU",
-   "identifier": "HORIZON-INFRA-2027-DEV-01-03",
-   "title": "Consolidation of the research infrastructure landscape – individual support for evolution, long-term sustainability and emerging needs of pan-European research infrastructures",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-INFRA-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-09",
-   "deadline_model": "single-stage",
-   "budget": 29350000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-06-15"
-   ],
-   "next_deadline": "2027-06-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-SERV-01-01",
-   "source": "EU",
-   "identifier": "HORIZON-INFRA-2027-SERV-01-01",
-   "title": "Access to research infrastructures, their resources and services: large-scale pilots for more integrated scheme across (sub)domains",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-INFRA-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-09",
-   "deadline_model": "single-stage",
-   "budget": 105000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-06-15"
-   ],
-   "next_deadline": "2027-06-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-SERV-01-02",
-   "source": "EU",
-   "identifier": "HORIZON-INFRA-2027-SERV-01-02",
-   "title": "Access to research infrastructure services to enable R&I addressing EU priorities and emerging challenges",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-INFRA-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-09",
-   "deadline_model": "single-stage",
-   "budget": 35000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-06-15"
-   ],
-   "next_deadline": "2027-06-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-INFRA-2027-SERV-01-03",
    "source": "EU",
    "identifier": "HORIZON-INFRA-2027-SERV-01-03",
@@ -19089,6 +19573,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-FILMSALES",
+   "source": "EU",
+   "identifier": "CREA-MEDIA-2027-FILMSALES",
+   "title": "European Film sales agent",
+   "type": "Grant topic",
+   "programme": "Creative Europe Programme (CREA)",
+   "call": "CREA-MEDIA-2027-FILMSALES",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-29",
+   "deadline_model": "single-stage",
+   "budget": 6000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-06-17"
+   ],
+   "next_deadline": "2027-06-17",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/359274",
    "source": "US",
    "identifier": "RFA-DC-26-001",
@@ -19190,6 +19695,69 @@
    ],
    "next_deadline": "2027-06-25",
    "first_seen": "2026-11-24",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/16981",
+   "source": "EU",
+   "identifier": "DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
+   "title": "Recruitment cycle Cohort 2027",
+   "type": "Cascade funding call",
+   "programme": "Digital Europe Programme (DIGITAL)",
+   "call": "",
+   "status": "Open",
+   "opening_date": "2026-10-31",
+   "deadline_model": "single-stage",
+   "budget": 588000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "next_deadline": "2027-06-30",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/16961",
+   "source": "EU",
+   "identifier": "DIGITAL-2022-SKILLS-03-SPECIALISED-EDU",
+   "title": "Recruitment Cycle Cohort 2027",
+   "type": "Cascade funding call",
+   "programme": "Digital Europe Programme (DIGITAL)",
+   "call": "",
+   "status": "Open",
+   "opening_date": "2026-10-31",
+   "deadline_model": "single-stage",
+   "budget": 510000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "next_deadline": "2027-06-30",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/16962",
+   "source": "EU",
+   "identifier": "DIGITAL-2023-SKILLS-04-SEMICONDUCTORS",
+   "title": "Recruitment Cycle Cohort 2027",
+   "type": "Cascade funding call",
+   "programme": "Digital Europe Programme (DIGITAL)",
+   "call": "",
+   "status": "Open",
+   "opening_date": "2026-10-31",
+   "deadline_model": "single-stage",
+   "budget": 360000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "next_deadline": "2027-06-30",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -19806,6 +20374,27 @@
    "change": ""
   },
   {
+   "url": "https://www.grants.gov/search-results-detail/364307",
+   "source": "US",
+   "identifier": "DOS-MANAMA-PD-2027-001",
+   "title": "U.S. Mission to the Kingdom of Bahrain Annual Program Statement (Public Diplomacy Small Grants Program)",
+   "type": "Grant",
+   "programme": "Department of State (DOS)",
+   "call": "U.S. Mission to Bahrain",
+   "status": "Open",
+   "opening_date": "2026-11-25",
+   "deadline_model": "",
+   "budget": null,
+   "currency": "USD",
+   "deadlines": [
+    "2027-08-15"
+   ],
+   "next_deadline": "2027-08-15",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/348985",
    "source": "US",
    "identifier": "23-601",
@@ -19998,6 +20587,27 @@
    "change": ""
   },
   {
+   "url": "https://www.grants.gov/search-results-detail/364311",
+   "source": "US",
+   "identifier": "HHS-2027-ACL-AOA-DASG-0029",
+   "title": "Disaster Assistance for State Units on Aging (SUAs) and Tribal Organizations",
+   "type": "Grant",
+   "programme": "Department of Health and Human Services (HHS)",
+   "call": "Administration for Community Living",
+   "status": "Forthcoming",
+   "opening_date": "2026-12-04",
+   "deadline_model": "estimated",
+   "budget": 600000,
+   "currency": "USD",
+   "deadlines": [
+    "2027-09-01"
+   ],
+   "next_deadline": "2027-09-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/363446",
    "source": "US",
    "identifier": "NHTSA-693JJ926R000024-FY26",
@@ -20019,23 +20629,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-21",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-03-12",
    "source": "EU",
-   "identifier": "HORIZON-CL4-2027-SPACE-03-21",
-   "title": "ISOS4I Pilot Mission Integrated Ground Test and consolidation of space-compatible USI solutions",
+   "identifier": "HORIZON-CL4-2027-SPACE-03-12",
+   "title": "Digital solutions for autonomy for space transportation systems, design and simulation tools - Digital enablers and building blocks (Space Partnership)",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL4-2027-03",
    "status": "Forthcoming",
    "opening_date": "2027-03-09",
    "deadline_model": "single-stage",
-   "budget": 3920000,
+   "budget": 5000000,
    "currency": "EUR",
    "deadlines": [
     "2027-09-02"
    ],
    "next_deadline": "2027-09-02",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -20292,6 +20902,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-03-WIDENING-01",
+   "source": "EU",
+   "identifier": "HORIZON-WIDERA-2027-03-WIDENING-01",
+   "title": "ERA Fellowships",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-WIDERA-2027-03",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-07",
+   "deadline_model": "single-stage",
+   "budget": 8000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-08"
+   ],
+   "next_deadline": "2027-09-08",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/362394",
    "source": "US",
    "identifier": "R26AS00017",
@@ -20544,27 +21175,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-02-CS-ECCC-04",
-   "source": "EU",
-   "identifier": "HORIZON-CL3-2027-02-CS-ECCC-04",
-   "title": "New primitives and protocols for functionalities of future hybrid classical-hybrid and quantum networks",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL3-2027-02-CS-ECCC",
-   "status": "Forthcoming",
-   "opening_date": "2027-03-02",
-   "deadline_model": "single-stage",
-   "budget": 4000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-15"
-   ],
-   "next_deadline": "2027-09-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D2-08",
    "source": "EU",
    "identifier": "HORIZON-CL5-2027-05-D2-08",
@@ -20597,27 +21207,6 @@
    "opening_date": "2027-05-05",
    "deadline_model": "single-stage",
    "budget": 5000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-15"
-   ],
-   "next_deadline": "2027-09-15",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
-   "source": "EU",
-   "identifier": "HORIZON-CL5-2027-05-D4-05",
-   "title": "On-site robotic and automated techniques for building renovation and new construction",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL5-2027-05",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-05",
-   "deadline_model": "single-stage",
-   "budget": 20250000,
    "currency": "EUR",
    "deadlines": [
     "2027-09-15"
@@ -20712,6 +21301,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-01-CONNECT-02",
+   "source": "EU",
+   "identifier": "HORIZON-EIE-2027-01-CONNECT-02",
+   "title": "Reinforcing synergies between experimentation spaces and innovation procurement",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-EIE-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-06-01",
+   "deadline_model": "single-stage",
+   "budget": 10000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-15"
+   ],
+   "next_deadline": "2027-09-15",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIE-2027-01-CONNECT-03",
    "source": "EU",
    "identifier": "HORIZON-EIE-2027-01-CONNECT-03",
@@ -20775,23 +21385,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP2",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2027-PEX-COVE-TOP1",
    "source": "EU",
-   "identifier": "ERASMUS-EDU-2027-PEX-COVE-TOP2",
-   "title": "Community of practice",
+   "identifier": "ERASMUS-EDU-2027-PEX-COVE-TOP1",
+   "title": "Centres of Vocational Excellence",
    "type": "Grant topic",
    "programme": "Erasmus (ERASMUS )",
    "call": "ERASMUS-EDU-2027-PEX-COVE",
    "status": "Forthcoming",
    "opening_date": "2027-06-08",
    "deadline_model": "single-stage",
-   "budget": 1500000,
+   "budget": 73000000,
    "currency": "EUR",
    "deadlines": [
     "2027-09-16"
    ],
    "next_deadline": "2027-09-16",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -21048,6 +21658,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-QUAL-LABEL",
+   "source": "EU",
+   "identifier": "ESC-HUMAID-2027-QUAL-LABEL",
+   "title": "Quality Label Humanitarian Aid Strand",
+   "type": "Grant topic",
+   "programme": "European Solidarity Corps (ESC)",
+   "call": "ESC-HUMAID-2027-QUAL-LABEL",
+   "status": "Open",
+   "opening_date": "2026-11-26",
+   "deadline_model": "single-stage",
+   "budget": null,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-21"
+   ],
+   "next_deadline": "2027-09-21",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2027-01-CLIMA-01",
    "source": "EU",
    "identifier": "HORIZON-MISS-2027-01-CLIMA-01",
@@ -21237,27 +21868,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-02",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-BIODIV-02",
-   "title": "Science-policy support to the implementation of EU and global biodiversity policies and strategies",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 7000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-03",
    "source": "EU",
    "identifier": "HORIZON-CL6-2027-01-BIODIV-03",
@@ -21321,27 +21931,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-06",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-BIODIV-06",
-   "title": "Living labs driving transformative change via knowledge integration and inclusive governance",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 14000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-07",
    "source": "EU",
    "identifier": "HORIZON-CL6-2027-01-BIODIV-07",
@@ -21367,27 +21956,6 @@
    "source": "EU",
    "identifier": "HORIZON-CL6-2027-01-BIODIV-08",
    "title": "Fostering common farmland birds and mammals for resilient food production systems",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-BIODIV-09",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-BIODIV-09",
-   "title": "Enhancing the competitiveness of organic crop breeding: focus on intercropping adapted varieties",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL6-2027-01",
@@ -21531,48 +22099,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-07",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-CIRCBIO-07",
-   "title": "Improving biomass flows for a sustainable and circular bioeconomy",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 14000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-08",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-CIRCBIO-08",
-   "title": "Biotechnology application for CCU",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-09",
    "source": "EU",
    "identifier": "HORIZON-CL6-2027-01-CIRCBIO-09",
@@ -21590,27 +22116,6 @@
    ],
    "next_deadline": "2027-09-22",
    "first_seen": "2026-11-25",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-01-CIRCBIO-10",
-   "source": "EU",
-   "identifier": "HORIZON-CL6-2027-01-CIRCBIO-10",
-   "title": "Strengthening forest research for the support of Ukraine",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL6-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-04-20",
-   "deadline_model": "single-stage",
-   "budget": 6000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-22"
-   ],
-   "next_deadline": "2027-09-22",
-   "first_seen": "",
    "changed_on": "",
    "change": ""
   },
@@ -21741,6 +22246,50 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JTM-2026-PSLF-FRAMEWORK-LOANS",
+   "source": "EU",
+   "identifier": "JTM-2026-PSLF-FRAMEWORK-LOANS",
+   "title": "Framework Loans",
+   "type": "Grant topic",
+   "programme": "Just Transition Mechanism (JTM)",
+   "call": "JTM-2026-PSLF",
+   "status": "Open",
+   "opening_date": "2025-10-23",
+   "deadline_model": "multiple cut-off",
+   "budget": 630000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2026-01-27",
+    "2027-09-22"
+   ],
+   "next_deadline": "2027-09-22",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/JTM-2026-PSLF-STANDALONE-PROJECTS",
+   "source": "EU",
+   "identifier": "JTM-2026-PSLF-STANDALONE-PROJECTS",
+   "title": "Standalone projects",
+   "type": "Grant topic",
+   "programme": "Just Transition Mechanism (JTM)",
+   "call": "JTM-2026-PSLF",
+   "status": "Open",
+   "opening_date": "2025-10-23",
+   "deadline_model": "multiple cut-off",
+   "budget": 630000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2026-01-27",
+    "2027-09-22"
+   ],
+   "next_deadline": "2027-09-22",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://www.grants.gov/search-results-detail/363873",
    "source": "US",
    "identifier": "RFA-TW-28-001",
@@ -21783,27 +22332,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-DEMOCRACY-02",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-DEMOCRACY-02",
-   "title": "Women’s, LGBTIQ and minority rights in a context of autocracy, conflict and geopolitical shifts",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-DEMOCRACY-03",
    "source": "EU",
    "identifier": "HORIZON-CL2-2027-01-DEMOCRACY-03",
@@ -21815,27 +22343,6 @@
    "opening_date": "2027-05-13",
    "deadline_model": "single-stage",
    "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-DEMOCRACY-04",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-DEMOCRACY-04",
-   "title": "Addressing the impact of artificial intelligence, cyberviolence, and deepfakes on equality, democracy and inclusive societies",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 20000000,
    "currency": "EUR",
    "deadlines": [
     "2027-09-23"
@@ -21930,10 +22437,10 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-HERITAGE-01",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-HERITAGE-02",
    "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-HERITAGE-01",
-   "title": "Towards a consolidated culture and creativity driven European innovation ecosystem",
+   "identifier": "HORIZON-CL2-2027-01-HERITAGE-02",
+   "title": "AI4Creatives Support Platform: embracing a fair AI revolution",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL2-2027-01",
@@ -21946,7 +22453,7 @@
     "2027-09-23"
    ],
    "next_deadline": "2027-09-23",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -21983,48 +22490,6 @@
    "opening_date": "2027-05-13",
    "deadline_model": "single-stage",
    "budget": 16000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-HERITAGE-05",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-HERITAGE-05",
-   "title": "Re-imagining the creative economy: the interplay between the cultural and creative sectors and industries and the social economy",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 10500000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-HERITAGE-06",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-HERITAGE-06",
-   "title": "Future-proofing sustainable cultural tourism",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 14500000,
    "currency": "EUR",
    "deadlines": [
     "2027-09-23"
@@ -22098,27 +22563,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-02",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-TRANSFO-02",
-   "title": "Impact of in-kind benefits on income distribution and on vulnerable populations",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 10000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-03",
    "source": "EU",
    "identifier": "HORIZON-CL2-2027-01-TRANSFO-03",
@@ -22144,48 +22588,6 @@
    "source": "EU",
    "identifier": "HORIZON-CL2-2027-01-TRANSFO-04",
    "title": "The impact of EU labour mobility on the Member States of the EU",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-05",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-TRANSFO-05",
-   "title": "The effective use of artificial intelligence in learning environments in pre-primary and primary education",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL2-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-13",
-   "deadline_model": "single-stage",
-   "budget": 12000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-09-23"
-   ],
-   "next_deadline": "2027-09-23",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-06",
-   "source": "EU",
-   "identifier": "HORIZON-CL2-2027-01-TRANSFO-06",
-   "title": "Closing the learning gap: uncovering causes and effective policy interventions for declining youth skills in mathematics, reading, and science",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL2-2027-01",
@@ -22245,6 +22647,90 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-01",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-CLIMATE-01",
+   "title": "Governance, sustainable development and international politics of a future ice-free Arctic",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 16000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-02",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-CLIMATE-02",
+   "title": "Strengthening evidence-based policies for the resilience of European agriculture and forestry and related supply chains against crises and systemic risks",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 12000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-03",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-CLIMATE-03",
+   "title": "Carbon farming innovation and scale-up",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 12000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-CLIMATE-04",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-CLIMATE-04",
+   "title": "Unlocking a safe operating space for Antarctica and the Southern Ocean",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 22000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-COMMUNITIES-01",
    "source": "EU",
    "identifier": "HORIZON-CL6-2027-02-COMMUNITIES-01",
@@ -22287,10 +22773,10 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-02",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-01",
    "source": "EU",
-   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-02",
-   "title": "Increasing mitigation of GHG emissions and feed efficiency through feed additives",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-01",
+   "title": "Increasing the resilience of agriculture in water and nutrient-scarce environments through digital innovations",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL6-2027-02",
@@ -22303,7 +22789,28 @@
     "2027-09-23"
    ],
    "next_deadline": "2027-09-23",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-03",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-03",
+   "title": "Microbiome for terrestrial livestock sustainability and health within a One Health approach",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 11800000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -22346,6 +22853,90 @@
    ],
    "next_deadline": "2027-09-23",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-06",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-06",
+   "title": "Unleashing the potential of sustainable small-scale aquatic food production and recreational fisheries for prosperous local communities",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 10000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-07",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-07",
+   "title": "Towards commercialization of food systems microbiome solutions",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 15500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-08",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-08",
+   "title": "AI-powered foodome characterization",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 7800000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL6-2027-02-FARM2FORK-09",
+   "source": "EU",
+   "identifier": "HORIZON-CL6-2027-02-FARM2FORK-09",
+   "title": "African Union – European Union Partnership on Food and Nutrition Security and Sustainable Agriculture (FNSSA)",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL6-2027-02",
+   "status": "Forthcoming",
+   "opening_date": "2027-04-20",
+   "deadline_model": "single-stage",
+   "budget": 6750000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-09-23"
+   ],
+   "next_deadline": "2027-09-23",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -23012,27 +23603,6 @@
    "opening_date": "2027-06-03",
    "deadline_model": "single-stage",
    "budget": 5500000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-10-07"
-   ],
-   "next_deadline": "2027-10-07",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-06-D6-05",
-   "source": "EU",
-   "identifier": "HORIZON-CL5-2027-06-D6-05",
-   "title": "European CCAM knowledge hub and tools for safe and scalable deployment (CCAM Partnership)",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-CL5-2027-06",
-   "status": "Forthcoming",
-   "opening_date": "2027-06-03",
-   "deadline_model": "single-stage",
-   "budget": 4000000,
    "currency": "EUR",
    "deadlines": [
     "2027-10-07"
@@ -24471,6 +25041,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-BM-01",
+   "source": "EU",
+   "identifier": "HORIZON-CL3-2027-01-BM-01",
+   "title": "Open topic on research and innovation for effective management of EU external borders that promotes fundamental rights and EU values",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL3-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-05-05",
+   "deadline_model": "single-stage",
+   "budget": 8000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-11-04"
+   ],
+   "next_deadline": "2027-11-04",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-BM-02",
    "source": "EU",
    "identifier": "HORIZON-CL3-2027-01-BM-02",
@@ -24639,6 +25230,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-FCT-03",
+   "source": "EU",
+   "identifier": "HORIZON-CL3-2027-01-FCT-03",
+   "title": "Open topic on enhanced prevention, detection and deterrence of societal issues related to various forms of crime",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL3-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-05-05",
+   "deadline_model": "single-stage",
+   "budget": 6000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-11-04"
+   ],
+   "next_deadline": "2027-11-04",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-FCT-04",
    "source": "EU",
    "identifier": "HORIZON-CL3-2027-01-FCT-04",
@@ -24656,6 +25268,27 @@
    ],
    "next_deadline": "2027-11-04",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-FCT-05",
+   "source": "EU",
+   "identifier": "HORIZON-CL3-2027-01-FCT-05",
+   "title": "Effective and evidence-based responses to the increased availability and use of synthetic drugs and stimulants in Europe",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL3-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-05-05",
+   "deadline_model": "single-stage",
+   "budget": 8000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-11-04"
+   ],
+   "next_deadline": "2027-11-04",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -25395,27 +26028,6 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-01-WIDENING-01",
-   "source": "EU",
-   "identifier": "HORIZON-WIDERA-2027-01-WIDENING-01",
-   "title": "EIC Pre-accelerator - Widening",
-   "type": "Grant topic",
-   "programme": "Horizon Europe (HORIZON)",
-   "call": "HORIZON-WIDERA-2027-01",
-   "status": "Forthcoming",
-   "opening_date": "2027-05-05",
-   "deadline_model": "single-stage",
-   "budget": 40000000,
-   "currency": "EUR",
-   "deadlines": [
-    "2027-11-18"
-   ],
-   "next_deadline": "2027-11-18",
-   "first_seen": "",
-   "changed_on": "",
-   "change": ""
-  },
-  {
    "url": "https://www.grants.gov/search-results-detail/357250",
    "source": "US",
    "identifier": "RFA-DA-26-034",
@@ -25500,6 +26112,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2027-STEP",
+   "source": "EU",
+   "identifier": "HORIZON-EIC-2027-STEP",
+   "title": "EIC STEP Scale Up",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-EIC-2027-STEP",
+   "status": "Open",
+   "opening_date": "2026-11-18",
+   "deadline_model": "",
+   "budget": 290000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-11-24"
+   ],
+   "next_deadline": "2027-11-24",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-11",
    "source": "EU",
    "identifier": "HORIZON-CL5-2027-07-D3-11",
@@ -25517,6 +26150,27 @@
    ],
    "next_deadline": "2027-12-01",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-16",
+   "source": "EU",
+   "identifier": "HORIZON-CL5-2027-07-D3-16",
+   "title": "Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL5-2027-07",
+   "status": "Forthcoming",
+   "opening_date": "2027-08-04",
+   "deadline_model": "single-stage",
+   "budget": 28500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "next_deadline": "2027-12-01",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -25563,6 +26217,48 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-26",
+   "source": "EU",
+   "identifier": "HORIZON-CL5-2027-07-D3-26",
+   "title": "Advanced Distribution Management Systems (ADSM) for more efficient and flexible distribution grids",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL5-2027-07",
+   "status": "Forthcoming",
+   "opening_date": "2027-08-04",
+   "deadline_model": "single-stage",
+   "budget": 28500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "next_deadline": "2027-12-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-27",
+   "source": "EU",
+   "identifier": "HORIZON-CL5-2027-07-D3-27",
+   "title": "Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-CL5-2027-07",
+   "status": "Forthcoming",
+   "opening_date": "2027-08-04",
+   "deadline_model": "single-stage",
+   "budget": 22500000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "next_deadline": "2027-12-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-07-D3-28",
    "source": "EU",
    "identifier": "HORIZON-CL5-2027-07-D3-28",
@@ -25605,6 +26301,27 @@
    "change": ""
   },
   {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-01",
+   "source": "EU",
+   "identifier": "HORIZON-NEB-2027-01-BUSINESS-01",
+   "title": "Mass customisation of offsite manufactured modular construction components to transform the existing built environment",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-NEB-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-05-05",
+   "deadline_model": "single-stage",
+   "budget": 10000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "next_deadline": "2027-12-01",
+   "first_seen": "2026-11-26",
+   "changed_on": "",
+   "change": ""
+  },
+  {
    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-02",
    "source": "EU",
    "identifier": "HORIZON-NEB-2027-01-BUSINESS-02",
@@ -25622,6 +26339,27 @@
    ],
    "next_deadline": "2027-12-01",
    "first_seen": "",
+   "changed_on": "",
+   "change": ""
+  },
+  {
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-BUSINESS-03",
+   "source": "EU",
+   "identifier": "HORIZON-NEB-2027-01-BUSINESS-03",
+   "title": "Anticipating the long-term future of neighbourhoods in line with the New European Bauhaus",
+   "type": "Grant topic",
+   "programme": "Horizon Europe (HORIZON)",
+   "call": "HORIZON-NEB-2027-01",
+   "status": "Forthcoming",
+   "opening_date": "2027-05-05",
+   "deadline_model": "single-stage",
+   "budget": 7000000,
+   "currency": "EUR",
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "next_deadline": "2027-12-01",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -25731,23 +26469,23 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-04",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2027-01-REGEN-03-CANCELLED",
    "source": "EU",
-   "identifier": "HORIZON-NEB-2027-01-REGEN-04",
-   "title": "Enabling environments for a sustainable and circular construction sector",
+   "identifier": "HORIZON-NEB-2027-01-REGEN-03-CANCELLED",
+   "title": "Revitalising neighbourhoods around existing railway and motorway corridors",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-NEB-2027-01",
    "status": "Forthcoming",
    "opening_date": "2027-05-05",
    "deadline_model": "single-stage",
-   "budget": 9000000,
+   "budget": null,
    "currency": "EUR",
    "deadlines": [
     "2027-12-01"
    ],
    "next_deadline": "2027-12-01",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
@@ -27243,10 +27981,10 @@
    "change": ""
   },
   {
-   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-07-84",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2027-SPACE-07-83",
    "source": "EU",
-   "identifier": "HORIZON-CL4-2027-SPACE-07-84",
-   "title": "Space critical equipment for EU non-dependence",
+   "identifier": "HORIZON-CL4-2027-SPACE-07-83",
+   "title": "Space critical EEE components for EU non-dependence",
    "type": "Grant topic",
    "programme": "Horizon Europe (HORIZON)",
    "call": "HORIZON-CL4-2027-07",
@@ -27259,7 +27997,7 @@
     "2028-01-20"
    ],
    "next_deadline": "2028-01-20",
-   "first_seen": "",
+   "first_seen": "2026-11-26",
    "changed_on": "",
    "change": ""
   },
